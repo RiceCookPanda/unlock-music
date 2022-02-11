@@ -24,7 +24,7 @@
     "jimp": "^0.14.0",
     "metaflac-js": "^1.0.5",
     "music-metadata-browser": "^2.1.6",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "register-service-worker": "^1.7.1",
     "sass-loader": "^10.0.2",
     "vue": "^2.6.12"
